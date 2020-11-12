@@ -1,6 +1,6 @@
 feature 'Visitor can read specific article' do
   before do
-    create(:article, title: 'A breaking news item', content: 'You can not believe what happened!')
+    create(:article, title: 'A breaking news item', content: 'You can not believe what happened!') #Factorybot
 
     visit root_path
     click_on 'A breaking news item'
