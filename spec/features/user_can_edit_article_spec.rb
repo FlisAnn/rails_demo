@@ -1,4 +1,4 @@
-feature 'User can ' do
+feature 'User can edit an article' do
   context 'edit an article'
     let(:article) { create(:article, title: 'Some crispy news', content: 'Bad bad content') } # Create a article
     before do   
