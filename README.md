@@ -1,3 +1,4 @@
+[![Build Status](https://semaphoreci.com/api/v1/flisann/rails_demo/branches/master/badge.svg)](https://semaphoreci.com/flisann/rails_demo)
 [![Coverage Status](https://coveralls.io/repos/github/FlisAnn/rails_demo/badge.svg?branch=visitor_can_read_specific_article)](https://coveralls.io/github/FlisAnn/rails_demo?branch=visitor_can_read_specific_article)
 
 # README
